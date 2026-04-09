@@ -1,0 +1,3 @@
+this is python file
+studying python
+learning i/o
